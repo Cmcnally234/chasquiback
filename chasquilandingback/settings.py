@@ -58,7 +58,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Next.js development server
     "http://127.0.0.1:3000",
-    "https://chasquilanding-48u2tzfv7-cades-projects-2b429d32.vercel.app",
+    "https://chasquifront.vercel.app/",
 
 ]
 
